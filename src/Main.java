@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         Calculator cal = new Calculator();
-
         double x = cal.Add(2.6,3.4);
         System.out.println("Addition = " + x);
 
