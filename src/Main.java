@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         Calculator cal = new Calculator();
 
-        double x = cal.Add(2.5,3.4);
+        double x = cal.Add(2.2,3.4);
         System.out.println("Addition = " + x);
 
         x = cal.Sub(8.5,2);
